@@ -10,5 +10,12 @@ The app also includes safety features, access to emergency contacts, and other r
  - Gamification and reward system: Earn experience points, badges, and virtual rewards for completing challenges, achieving milestones, and participating in the app's community.
  - Safety features: Access safety tips, emergency contacts, and other resources to ensure safe and responsible riding practices.
  
-   
+ # Developers
+Hey there, I'm Loren Bako, the creator behind this amazing app! As a passionate motorcycle enthusiast, I wanted to create an app that would help riders like me find new adventures and connect with other riders. And since I couldn't find anything that fit the bill, I decided to take matters into my own hands!
+ 
+ # Contribute
+ Do you share my passion for all things motorcycle-related? Are you a coding whiz or a design genius? Or maybe you just have some great ideas you want to share? Whatever your skills or interests, I'd love to hear from you! Join the ride and become part of the RoadArenaX community. Shoot me a message through my [website](https://lorenbako.com/#contact) and let's make something awesome together! 
+ 
+ 
+ ## RoadArena
 ![roadarena](https://user-images.githubusercontent.com/112914389/221722142-0be7e535-0a2f-4fe4-a474-449d015d32c9.png)
