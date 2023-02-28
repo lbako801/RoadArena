@@ -1,5 +1,5 @@
 # RoadArena (currently in developement)
-The RoadArena app is a community platform designed for motorcycle enthusiasts who want to connect with other riders, plan and track rides, and compete in challenges and contests. With features such as ride planning and tracking, challenges and contests, and a gamification and reward system, RoadArenaX offers an exciting and engaging experience for riders who are passionate about adventure, competition, and camaraderie.
+The RoadArena app is a community platform designed for motorcycle enthusiasts who want to connect with other riders, plan and track rides, and compete in challenges and contests. With features such as ride planning and tracking, challenges and contests, and a gamification and reward system, RoadArena offers an exciting and engaging experience for riders who are passionate about adventure, competition, and camaraderie.
 
 The app also includes safety features, access to emergency contacts, and other resources to ensure safe and responsible riding practices. With its user-friendly interface, customizable profiles, and social connectivity, RoadArena is the ultimate platform for motorcycle riders who want to enhance their riding experiences and connect with other like-minded individuals.
 
